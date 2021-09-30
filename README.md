@@ -1,2 +1,8 @@
-# test_repo-demo
-gamestop to the moon
+# Fintech Repository
+
+## Fintech Repository
+
+### Fintech Repository
+
+Welcome to my repository of Fintech projects. Please explosre the codebase
+
